@@ -9,11 +9,11 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [Kyle Garcia](https://github.com/KyleGarcia27) - `STUDENTS_UNIVERSITY`
-- [Jadyn Godsey](https://github.com/JadynGodsey) - `STUDENTS_UNIVERSITY` 
-- [Chelsea Amihere](https://github.com/chami1) - `STUDENTS_UNIVERSITY` 
-- [Dominic Davis](https://github.com/DomPC) - `STUDENTS_UNIVERSITY`
-- [Kourtney Garrett](https://github.com/Kourtxx) - `STUDENTS_UNIVERSITY`
+- [Kyle Garcia](https://github.com/KyleGarcia27) - `MORGAN STATE UNIVERSITY`
+- [Jadyn Godsey](https://github.com/JadynGodsey) - `MORGAN STATE UNIVERSITY` 
+- [Chelsea Amihere](https://github.com/chami1) - `MORGAN STATE UNIVERSITY` 
+- [Dominic Davis](https://github.com/DomPC) - `MORGAN STATE UNIVERSITY`
+- [Kourtney Garrett](https://github.com/Kourtxx) - `MORGAN STATE UNIVERSITY`
 
 ## Description
 <!--
