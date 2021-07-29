@@ -11,7 +11,7 @@ link to each members respective GitHub profile
 Developed by: 
 - [Kyle Garcia](https://github.com/KyleGarcia27) - `STUDENTS_UNIVERSITY`
 - [Jadyn Godsey](https://github.com/JadynGodsey) - `STUDENTS_UNIVERSITY` 
-- [member 3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [Chelsea Amihere](https://github.com/chami1) - `STUDENTS_UNIVERSITY` 
 - [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 - [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 
