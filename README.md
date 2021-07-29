@@ -9,9 +9,10 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [Kyle Garcia](https://github.com/KyleGarcia27) - `STUDENTS_UNIVERSITY`
+- [Jadyn Godsey](https://github.com/JadynGodsey) - `STUDENTS_UNIVERSITY` 
+- [member 3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 - [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 
 ## Description
